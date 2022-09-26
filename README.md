@@ -25,4 +25,4 @@ I am working on my personal portfolio projects, these projects are:
 * Figma UI designs are required to start development.
 * Details of your app idea
 
-If you have any questions you can contact me at muaazshoaib1670@gmail.com
+If you have any questions you can contact me at https://www.linkedin.com/in/muaazshoaib/ or muaazshoaib1670@gmail.com
