@@ -4,8 +4,8 @@ I am Muaaz Shoaib, a Flutter mobile app developer. I will help you in developing
 
 **Portfolio:**
 I am working on my personal portfolio projects, these projects are:
-* [Tech Ecommerce App](https://github.com/MuaazShoaib/tech_ecommerce_app/)
-* [WhatsApp Clone](https://github.com/MuaazShoaib/whatsapp_clone/)
+* [Tech Ecommerce App](https://github.com/muaazshoaib/tech_ecommerce_app/)
+* [WhatsApp Clone](https://github.com/muaazshoaib/whatsapp_clone/)
 
 
 **Skills:**
