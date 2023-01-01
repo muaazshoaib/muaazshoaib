@@ -15,10 +15,10 @@ I am working on my personal portfolio projects, these projects are:
 * Authentication
 * API integration
 * Media (Photo/Video) storage
-* Google Maps integration
+<!-- * Google Maps integration
 * Push notifications
 * In-app purchases
-* Ad mob integration
+* Ad mob integration -->
 * App icon
 
 **Requirements:**
