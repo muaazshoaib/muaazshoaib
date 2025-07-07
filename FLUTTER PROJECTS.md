@@ -1,6 +1,6 @@
 📱 MOBILE APP DEVELOPMENT PROJECTS
 
-1. Weepullup: eCommerce Platform
+1. WePullUp: eCommerce Platform
 * Contributed to the development of a large-scale eCommerce platform, focusing on UI components and user experience.
 * Implemented API integrations to manage multiple stores, products, courier flow, and customer data, ensuring smooth transaction processes.
 * Optimized app performance and scalability to handle high traffic and large volumes of data efficiently.
@@ -46,15 +46,18 @@ maintainability.
 
 --------------------------------------------------------------------------------------------------------------
 
-Experience
+PROFESSIONAL EXPERIENCE
 
 Coding Beats
 
 Mobile Application Developer => DEC 2024, JUL 2025
 
-1. Independently developed and maintained features in production-level Flutter applications, focusing on performance optimization and scalable code architecture.
-2. Took ownership of UI component development and API integration, collaborating closely with cross-functional teams to deliver robust solutions.
-3. Applied clean architecture principles and leveraged tools such as Firebase, Git, and Postman to streamline workflows and ensure efficient development processes.
+1. Independently built and maintained features in production-level Flutter apps, resulting in improved performance, scalability, and user satisfaction.
+2. Led the development of responsive UI components and seamless API integrations for key projects, including LocumKit (Payroll System) and WePullUp (eCommerce Platform).
+3. Applied Clean Architecture principles and utilized tools such as Firebase, Git, and Postman to streamline development workflows and enhance code maintainability.
+4. Collaborated closely with backend developers to integrate RESTful APIs, significantly improving application functionality, responsiveness, and user experience.
+5. Gained hands-on experience in Flutter development, with a strong focus on UI/UX design, state management (GetX), and efficient API consumption, contributing to project success and timely delivery.
+
 
 
 Comsats University Islamabad, Attock Campus
