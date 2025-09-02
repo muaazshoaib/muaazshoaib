@@ -9,3 +9,20 @@ MACHINE LEARNING ROADMAP (12 - 20 MONTHS)
 7. MACHINE LEARNING (TENSORFLOW, PYTORCH, SCIKIT LEARN) - 3 MONTHS
 8. ADVANCED TOPICS (ENSEMBLE LEARNING, DEEP LEARNING, NATURAL LANGUAGE PROCESSING, COMPUTER VISION) - 3 MONTHS
 9. MODEL DEPLOYMENT (FLASK, DJANGO, DOCKER) - 2 MONTHS
+
+-----------------------------------------------------------------
+
+A. Foundations and Core Skills 
+1. Python, Git, Data Structures & Algorithms, SQL
+2. Mathematics & Statistics (Linear Algebra, Calculus, Probability, Statistics)
+
+B. Machine Learning and Advanced Development 
+1. Data Handling (SQL, Pandas, NumPy, Matplotlib)
+2. Core Machine Learning Frameworks (Scikit-learn, TensorFlow)
+3. Advanced Machine Learning Topics (Ensemble Learning, Deep Learning, NLP, Computer Vision)
+4. Generative AI (Langchain)
+
+C. Deployment and Full Stack Integration
+1. Model Deployment (Django, Docker)
+2. Backend Development (Django, MySQL)
+3. Frontend Development (React, React Native)
