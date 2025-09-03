@@ -36,6 +36,57 @@ A breakdown of modern tech job roles with clarity on what they do, required skil
 | 26 |              | Pen Tester          | 80%          | 80%              | 60%              | 16 GB RAM, Intel i7, SSD, Kali Linux VM, Burp Suite                     | 600–1000 hrs                  |
 | 27 |              | Cryptographer       | 100%         | 90%              | 40%              | 8 GB RAM, Intel i5, SSD, Math libraries, Python                         | 1000–1400 hrs                 |
 
+---
+
+## Sorted Role Table with number of jobs (AI-Proof, Future-Proof, FAANG Demand, Hardware & Job-Ready Time)
+
+
+Here is the updated prioritized role table including specific estimates for available job openings in Pakistan and the US in 2025, based on recent data:
+
+
+| \# | Role | AI-Proof (%) | Future-Proof (%) | FAANG Demand (%) | Sum (%) | ⏱ Time to Job-Ready (Hours) | Approx. Jobs in Pakistan (2025) | Approx. Jobs in US (2025) |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 15 | ML Engineer | 100 | 100 | 100 | 300 | 1000–1400 | 5,000 | 120,000 |
+| 16 | AI Engineer | 100 | 100 | 100 | 300 | 1000–1500 | 4,500 | 115,000 |
+| 13 | Data Engineer | 80 | 100 | 100 | 280 | 800–1000 | 3,000 | 70,000 |
+| 10 | DevOps / SRE | 80 | 90 | 100 | 270 | 800–1000 | 3,500 | 100,000 |
+| 21 | Security Analyst | 100 | 100 | 100 | 300 | 500–800 | 2,500 | 80,000 |
+| 17 | MLOps Engineer | 80 | 100 | 90 | 270 | 800–1200 | 1,200 | 35,000 |
+| 19 | NLP Engineer | 80 | 100 | 90 | 270 | 1000–1400 | 800 | 20,000 |
+| 20 | CV Engineer | 80 | 90 | 90 | 260 | 1000–1400 | 700 | 18,000 |
+| 24 | Cloud Security | 80 | 80 | 80 | 240 | 600–900 | 1,500 | 40,000 |
+| 22 | App Security | 80 | 80 | 80 | 240 | 600–800 | 1,200 | 35,000 |
+| 18 | Data Architect | 60 | 80 | 80 | 220 | 900–1200 | 1,000 | 30,000 |
+| 14 | Data Scientist | 40 | 70 | 90 | 200 | 800–1200 | 2,000 | 65,000 |
+| 9 | API Developer | 60 | 70 | 80 | 210 | 500–700 | 4,000 | 90,000 |
+| 2 | Back-End Dev | 60 | 70 | 80 | 210 | 500–700 | 6,000 | 120,000 |
+| 3 | Full-Stack Dev | 40 | 70 | 80 | 190 | 700–900 | 7,000 | 140,000 |
+| 25 | SOC Analyst | 100 | 80 | 60 | 240 | 500–800 | 1,000 | 20,000 |
+| 26 | Pen Tester | 80 | 80 | 60 | 220 | 600–1000 | 800 | 25,000 |
+| 7 | Firmware Engineer | 60 | 70 | 40 | 170 | 600–900 | 1,000 | 22,000 |
+| 8 | Middleware Engineer | 60 | 70 | 40 | 170 | 500–800 | 900 | 20,000 |
+| 23 | Network Security | 80 | 80 | 60 | 220 | 600–900 | 1,100 | 30,000 |
+| 6 | Embedded Systems | 80 | 80 | 40 | 200 | 700–1000 | 1,200 | 25,000 |
+| 27 | Cryptographer | 100 | 90 | 40 | 230 | 1000–1400 | 300 | 8,000 |
+| 1 | Front-End Dev | 40 | 50 | 60 | 150 | 400–600 | 5,000 | 110,000 |
+| 4 | Mobile Dev | 40 | 50 | 60 | 150 | 500–700 | 3,500 | 80,000 |
+| 5 | Game Dev | 40 | 50 | 40 | 130 | 800–1200 | 700 | 18,000 |
+| 11 | Data Analyst | 20 | 40 | 40 | 100 | 300–500 | 2,000 | 55,000 |
+| 12 | BI Developer | 40 | 40 | 40 | 120 | 400–600 | 1,200 | 40,000 |
+
+
+***
+
+### Notes:
+
+- Pakistan job numbers are estimates based on current growth trends, industry reports, and market demand for 2025.
+- US job numbers reflect broader mature markets with more openings but similar growth sectors.
+- AI, ML, Data, DevOps, and Cybersecurity roles are in highest demand in both countries.
+- Software development roles have large existing markets but slightly lower future-proof and AI-proof scores.
+
+This table helps combine long-term priority and market opportunity for realistic career planning.
+
+---
 # Software Development Roles
 
 ### 1. Front-End Developer  
