@@ -1,93 +1,39 @@
-# ✅ Modern Tech Roles – Skills, Market Outlook, and Stability
+# Modern Tech Roles – Skills, Market Outlook, and Stability
 
-### 🏆 Best Long-Term Career Path for ROI
-
-#### 🎯 Final Choice: **DevOps / SRE + Cloud Engineer**
-
----
-
-#### 🔥 Why This Path Wins
-- **AI-Proof & Future-Proof**:  
-  Even as AI reduces coding, **apps always need deployment, scaling, monitoring, and security**.  
-- **MNC Priority**:  
-  FAANG & global MNCs spend **billions on cloud infrastructure** — they cannot run AI, apps, or data without Cloud & SRE.  
-- **Resilient in Layoffs**:  
-  Infra teams are the **last to be cut** — they keep systems alive.  
-- **High Salary Growth**:  
-  Roles scale to **Cloud Architect / SRE Lead ($200K–$250K+)** in the US.  
-- **Learning ROI**:  
-  Faster to job-ready than AI/ML (less math-heavy, more tooling/coding balance).  
-- **Transferable Across Industries**:  
-  Relevant in **fintech, AI, healthcare, e-commerce, SaaS, government, and more**.  
+## Career Choice  
+I’ve chosen to pursue a career as an **AI Engineer** — a role focused on building **real-world intelligent applications** by integrating ML/DL/LLM models with systems, frameworks, and deployments.  
 
 ---
 
-#### 🚀 Career Growth Ladder
-1. **DevOps Engineer** → CI/CD, Docker, basic cloud.  
-2. **SRE (Site Reliability Engineer)** → Reliability, observability, scaling.  
-3. **Cloud Engineer / Architect** → Multi-cloud design, cost optimization, security.  
-4. **Platform Engineer / Manager** → Lead infra & reliability teams globally.  
+## AI Engineer vs ML Engineer  
+
+| Role | Focus | One-Line Definition |
+|------|-------|----------------------|
+| **ML Engineer** | Building and optimizing ML models (training, tuning, evaluation) | Creates accurate machine learning models. |
+| **AI Engineer** | Integrating ML/LLM models into real-world apps (LangChain, APIs, deployment, agents) | Builds intelligent applications powered by AI |
 
 ---
 
-#### 📊 Long-Term ROI Metrics
-| Metric            | Value |
-|-------------------|-------|
-| **AI-Proof**      | 90%   |
-| **Future-Proof**  | 100%  |
-| **FAANG Demand**  | 100%  |
-| **Layoff Risk**   | Low   |
-| **Global Salary Ceiling** | $250K+ |
+## AI Engineer Skills Roadmap  
 
-
-✅ **If your goal is MNC stability + highest ROI with lowest risk → This is the one path to bet on.**
-
----
-
-A breakdown of modern tech job roles with clarity on what they do, required skills, and how well they're protected from AI disruption and aligned with future global demand.
-
----
-
-## 📊 Role Table (AI-Proof, Future-Proof, FAANG Demand, Hardware & Job-Ready Time)
-
-| #  | Category     | Role                | AI-Proof (%) | Future-Proof (%) | FAANG Demand (%) | 🖥 Hardware Requirements (Spec)                                         | ⏱ Time to Job-Ready (Hours) |
-|----|--------------|---------------------|--------------|------------------|------------------|-------------------------------------------------------------------------|-------------------------------|
-| 1  | Software Dev | Front-End Dev       | 40%          | 50%              | 60%              | 8 GB RAM, Intel i5, SSD (256 GB+), No GPU                               | 400–600 hrs                   |
-| 2  |              | Back-End Dev        | 60%          | 70%              | 80%              | 16 GB RAM, Intel i7, SSD, No GPU                                        | 500–700 hrs                   |
-| 3  |              | Full-Stack Dev      | 40%          | 70%              | 80%              | 16 GB RAM, Intel i7, SSD (512 GB+), No GPU                              | 700–900 hrs                   |
-| 4  |              | Mobile Dev          | 40%          | 50%              | 60%              | MacBook (M1/M2), 16 GB RAM, SSD, No GPU                                 | 500–700 hrs                   |
-| 5  |              | Game Dev            | 40%          | 50%              | 40%              | 16–32 GB RAM, Intel i7/Ryzen 7, 4–8 GB GPU, SSD                         | 800–1200 hrs                  |
-| 6  |              | Embedded Systems    | 80%          | 80%              | 40%              | 8 GB RAM, Intel i5, SSD, Dev boards (Arduino, STM32)                    | 700–1000 hrs                  |
-| 7  |              | Firmware Engineer   | 60%          | 70%              | 40%              | 8–16 GB RAM, Intel i5/i7, SSD, Debug tools, JTAG                        | 600–900 hrs                   |
-| 8  |              | Middleware Engineer | 60%          | 70%              | 40%              | 16 GB RAM, Intel i7, SSD, No GPU                                        | 500–800 hrs                   |
-| 9  |              | API Developer       | 60%          | 70%              | 80%              | 16 GB RAM, Intel i7, SSD, No GPU                                        | 500–700 hrs                   |
-| 10 |              | DevOps / SRE        | 80%          | 90%              | 100%             | 16–32 GB RAM, Intel i7, SSD, Docker support, No GPU                     | 800–1000 hrs                  |
-| 11 | Data & AI    | Data Analyst        | 20%          | 40%              | 40%              | 8 GB RAM, Intel i5, SSD, No GPU                                         | 300–500 hrs                   |
-| 12 |              | BI Developer        | 40%          | 40%              | 40%              | 8 GB RAM, Intel i5, SSD, No GPU                                         | 400–600 hrs                   |
-| 13 |              | Data Engineer       | 80%          | 100%             | 100%             | 16–32 GB RAM, Intel i7, SSD (512 GB+), No GPU                           | 800–1000 hrs                  |
-| 14 |              | Data Scientist      | 40%          | 70%              | 90%              | 16 GB RAM, Intel i7, 4 GB GPU (NVIDIA GTX/RTX), SSD                     | 800–1200 hrs                  |
-| 15 |              | ML Engineer         | 100%         | 100%             | 100%             | 32 GB RAM, Intel i7/i9 or M2, 8 GB+ GPU (RTX 3080/3090), SSD            | 1000–1400 hrs                 |
-| 16 |              | AI Engineer         | 100%         | 100%             | 100%             | 32 GB RAM, i9/Ryzen 9, 8–12 GB GPU, SSD (1 TB)                          | 1000–1500 hrs                 |
-| 17 |              | MLOps Engineer      | 80%          | 100%             | 90%              | 16–32 GB RAM, Intel i7, SSD, Optional GPU                               | 800–1200 hrs                  |
-| 18 |              | Data Architect      | 60%          | 80%              | 80%              | 32 GB RAM, Intel i7/i9, SSD, No GPU                                     | 900–1200 hrs                  |
-| 19 |              | NLP Engineer        | 80%          | 100%             | 90%              | 32 GB RAM, i7/i9, 8–12 GB GPU (RTX), SSD (1 TB)                         | 1000–1400 hrs                 |
-| 20 |              | CV Engineer         | 80%          | 90%              | 90%              | 32 GB RAM, i7/i9, 8–12 GB GPU, SSD (1 TB)                               | 1000–1400 hrs                 |
-| 21 | Cybersecurity| Security Analyst    | 100%         | 100%             | 100%             | 8 GB RAM, Intel i5/i7, SSD, VMware/VirtualBox setup                     | 500–800 hrs                   |
-| 22 |              | App Security        | 80%          | 80%              | 80%              | 8–16 GB RAM, Intel i7, SSD, Static code tools                           | 600–800 hrs                   |
-| 23 |              | Network Security    | 80%          | 80%              | 60%              | 8–16 GB RAM, Intel i7, SSD, Wireshark, VM tools                         | 600–900 hrs                   |
-| 24 |              | Cloud Security      | 80%          | 80%              | 80%              | 16 GB RAM, Intel i7, SSD, AWS/Azure accounts                            | 600–900 hrs                   |
-| 25 |              | SOC Analyst         | 100%         | 80%              | 60%              | 8–16 GB RAM, Intel i5/i7, SSD, SIEM tools, sandbox VM                   | 500–800 hrs                   |
-| 26 |              | Pen Tester          | 80%          | 80%              | 60%              | 16 GB RAM, Intel i7, SSD, Kali Linux VM, Burp Suite                     | 600–1000 hrs                  |
-| 27 |              | Cryptographer       | 100%         | 90%              | 40%              | 8 GB RAM, Intel i5, SSD, Math libraries, Python                         | 1000–1400 hrs                 |
+| Step | Skill Category | Description | Focus % | Status |
+|------|----------------|-------------|---------|--------|
+| 1 | Programming | Python, NumPy, Pandas, OOP, APIs | 8% |  |
+| 2 | ML Foundations | Scikit-Learn, preprocessing, feature engineering, classic ML models | 7% |  |
+| 3 | Deep Learning | PyTorch/TensorFlow, CNNs, RNNs, Transfer Learning | 15% |  |
+| 4 | LLMs & NLP | Transformers, Hugging Face, embeddings, fine-tuning, RAG, prompt engineering | 20% |  |
+| 5 | Vector Databases | Pinecone, Weaviate, FAISS | 10% |  |
+| 6 | AI Frameworks | LangChain, LangGraph, AI agents | 10% |  |
+| 7 | MLOps & Deployment | Docker, Kubernetes, FastAPI, Django, CI/CD pipelines | 10% |  |
+| 8 | Cloud AI Services | AWS Sagemaker, GCP Vertex AI, Azure AI | 5% |  |
+| 9 | System Design & Optimization | AI app design, quantization, pruning, distillation | 5% |  |
+| 10 | Frontend | React for web, React Native for mobile AI apps | 10% |  |
 
 ---
+## Sorted Role Table with number of jobs (AI-Proof, Future-Proof, FAANG Demand & Job-Ready Time)
+Here is the updated prioritized role table, including specific estimates for available job openings in Pakistan and the US in 2025, based on recent data:
 
-## Sorted Role Table with number of jobs (AI-Proof, Future-Proof, FAANG Demand, Hardware & Job-Ready Time)
-
-
-Here is the updated prioritized role table including specific estimates for available job openings in Pakistan and the US in 2025, based on recent data:
-
-| \# | Role | AI-Proof (%) | Future-Proof (%) | FAANG Demand (%) | Sum (%) | ⏱ Time to Job-Ready (Hours) | Approx. Jobs in Pakistan (2025) | Approx. Jobs in US (2025) |
+| \# | Role | AI-Proof (%) | Future-Proof (%) | FAANG Demand (%) | Sum (%) | ⏱ Time to Job-Ready (Hours) | Approx. Jobs in Pakistan (2025) | Approx. Jobs in the US (2025) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | 15 | ML Engineer | 100 | 100 | 100 | 300 | 1000–1400 | 5,000 | 120,000 |
 | 16 | AI Engineer | 100 | 100 | 100 | 300 | 1000–1500 | 4,500 | 115,000 |
@@ -123,12 +69,47 @@ Here is the updated prioritized role table including specific estimates for avai
 
 - Pakistan job numbers are estimates based on current growth trends, industry reports, and market demand for 2025.
 - US job numbers reflect broader mature markets with more openings but similar growth sectors.
-- AI, ML, Data, DevOps, and Cybersecurity roles are in highest demand in both countries.
+- AI, ML, Data, DevOps, and Cybersecurity roles are in the highest demand in both countries.
 - Software development roles have large existing markets but slightly lower future-proof and AI-proof scores.
 
-This table helps combine long-term priority and market opportunity for realistic career planning.
+This table helps combine long-term priorities and market opportunities for realistic career planning.
 
 ---
+
+## Role Table (AI-Proof, Future-Proof, FAANG Demand, Hardware & Job-Ready Time)
+
+| #  | Category     | Role                | AI-Proof (%) | Future-Proof (%) | FAANG Demand (%) | Hardware Requirements (Spec)                                         | ⏱ Time to Job-Ready (Hours) |
+|----|--------------|---------------------|--------------|------------------|------------------|-------------------------------------------------------------------------|-------------------------------|
+| 1  | Software Dev | Front-End Dev       | 40%          | 50%              | 60%              | 8 GB RAM, Intel i5, SSD (256 GB+), No GPU                               | 400–600 hrs                   |
+| 2  |              | Back-End Dev        | 60%          | 70%              | 80%              | 16 GB RAM, Intel i7, SSD, No GPU                                        | 500–700 hrs                   |
+| 3  |              | Full-Stack Dev      | 40%          | 70%              | 80%              | 16 GB RAM, Intel i7, SSD (512 GB+), No GPU                              | 700–900 hrs                   |
+| 4  |              | Mobile Dev          | 40%          | 50%              | 60%              | MacBook (M1/M2), 16 GB RAM, SSD, No GPU                                 | 500–700 hrs                   |
+| 5  |              | Game Dev            | 40%          | 50%              | 40%              | 16–32 GB RAM, Intel i7/Ryzen 7, 4–8 GB GPU, SSD                         | 800–1200 hrs                  |
+| 6  |              | Embedded Systems    | 80%          | 80%              | 40%              | 8 GB RAM, Intel i5, SSD, Dev boards (Arduino, STM32)                    | 700–1000 hrs                  |
+| 7  |              | Firmware Engineer   | 60%          | 70%              | 40%              | 8–16 GB RAM, Intel i5/i7, SSD, Debug tools, JTAG                        | 600–900 hrs                   |
+| 8  |              | Middleware Engineer | 60%          | 70%              | 40%              | 16 GB RAM, Intel i7, SSD, No GPU                                        | 500–800 hrs                   |
+| 9  |              | API Developer       | 60%          | 70%              | 80%              | 16 GB RAM, Intel i7, SSD, No GPU                                        | 500–700 hrs                   |
+| 10 |              | DevOps / SRE        | 80%          | 90%              | 100%             | 16–32 GB RAM, Intel i7, SSD, Docker support, No GPU                     | 800–1000 hrs                  |
+| 11 | Data & AI    | Data Analyst        | 20%          | 40%              | 40%              | 8 GB RAM, Intel i5, SSD, No GPU                                         | 300–500 hrs                   |
+| 12 |              | BI Developer        | 40%          | 40%              | 40%              | 8 GB RAM, Intel i5, SSD, No GPU                                         | 400–600 hrs                   |
+| 13 |              | Data Engineer       | 80%          | 100%             | 100%             | 16–32 GB RAM, Intel i7, SSD (512 GB+), No GPU                           | 800–1000 hrs                  |
+| 14 |              | Data Scientist      | 40%          | 70%              | 90%              | 16 GB RAM, Intel i7, 4 GB GPU (NVIDIA GTX/RTX), SSD                     | 800–1200 hrs                  |
+| 15 |              | ML Engineer         | 100%         | 100%             | 100%             | 32 GB RAM, Intel i7/i9 or M2, 8 GB+ GPU (RTX 3080/3090), SSD            | 1000–1400 hrs                 |
+| 16 |              | AI Engineer         | 100%         | 100%             | 100%             | 32 GB RAM, i9/Ryzen 9, 8–12 GB GPU, SSD (1 TB)                          | 1000–1500 hrs                 |
+| 17 |              | MLOps Engineer      | 80%          | 100%             | 90%              | 16–32 GB RAM, Intel i7, SSD, Optional GPU                               | 800–1200 hrs                  |
+| 18 |              | Data Architect      | 60%          | 80%              | 80%              | 32 GB RAM, Intel i7/i9, SSD, No GPU                                     | 900–1200 hrs                  |
+| 19 |              | NLP Engineer        | 80%          | 100%             | 90%              | 32 GB RAM, i7/i9, 8–12 GB GPU (RTX), SSD (1 TB)                         | 1000–1400 hrs                 |
+| 20 |              | CV Engineer         | 80%          | 90%              | 90%              | 32 GB RAM, i7/i9, 8–12 GB GPU, SSD (1 TB)                               | 1000–1400 hrs                 |
+| 21 | Cybersecurity| Security Analyst    | 100%         | 100%             | 100%             | 8 GB RAM, Intel i5/i7, SSD, VMware/VirtualBox setup                     | 500–800 hrs                   |
+| 22 |              | App Security        | 80%          | 80%              | 80%              | 8–16 GB RAM, Intel i7, SSD, Static code tools                           | 600–800 hrs                   |
+| 23 |              | Network Security    | 80%          | 80%              | 60%              | 8–16 GB RAM, Intel i7, SSD, Wireshark, VM tools                         | 600–900 hrs                   |
+| 24 |              | Cloud Security      | 80%          | 80%              | 80%              | 16 GB RAM, Intel i7, SSD, AWS/Azure accounts                            | 600–900 hrs                   |
+| 25 |              | SOC Analyst         | 100%         | 80%              | 60%              | 8–16 GB RAM, Intel i5/i7, SSD, SIEM tools, sandbox VM                   | 500–800 hrs                   |
+| 26 |              | Pen Tester          | 80%          | 80%              | 60%              | 16 GB RAM, Intel i7, SSD, Kali Linux VM, Burp Suite                     | 600–1000 hrs                  |
+| 27 |              | Cryptographer       | 100%         | 90%              | 40%              | 8 GB RAM, Intel i5, SSD, Math libraries, Python                         | 1000–1400 hrs                 |
+
+---
+
 # Software Development Roles
 
 ### 1. Front-End Developer  
@@ -181,7 +162,7 @@ Data scientists analyze data using math, statistics, and programming to build mo
 ML engineers develop and deploy machine learning models in real-world applications. They optimize algorithms for speed and accuracy using frameworks like TensorFlow and PyTorch. ML engineers focus on automating training, versioning, and monitoring to maintain effective AI systems.
 
 ### 16. AI Engineer  
-AI engineers design and build intelligent systems that mimic human abilities such as understanding language or images. Using NLP, computer vision, and deep learning tools, they create applications like chatbots, image recognition, and recommendation engines that learn and improve over time.
+AI engineers design and build intelligent systems that mimic human abilities, such as understanding language or images. Using NLP, computer vision, and deep learning tools, they create applications like chatbots, image recognition, and recommendation engines that learn and improve over time.
 
 ### 17. MLOps Engineer  
 MLOps engineers combine machine learning and DevOps practices to automate model deployment and management. They build pipelines for training, testing, and updating models using tools like Docker and MLFlow. Their work ensures AI systems are scalable, reliable, and maintainable.
