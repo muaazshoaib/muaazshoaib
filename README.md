@@ -1,15 +1,3 @@
-# AI Engineer | LLMs & NLP | Vector Databases | MLOps & Cloud AI | AI Applications Architect
-I am an AI Engineer specializing in designing, building, and deploying intelligent systems that bridge research and real-world applications. My expertise spans the full AI lifecycle—from classical machine learning and deep learning to large language models, vector databases, and production-grade deployment.
+# Mobile App Developer
 
-I focus on developing scalable AI applications using transformers, embeddings, retrieval-augmented generation (RAG), and AI agent frameworks such as LangChain and LangGraph. With strong experience in MLOps, Docker/Kubernetes, CI/CD, and cloud AI platforms (AWS, GCP, Azure), I ensure that models transition seamlessly from prototype to production.
-
-In addition to backend expertise, I integrate React and React Native frontends for complete end-to-end AI-driven products. I also emphasize performance optimization through quantization, pruning, and distillation to deliver efficient solutions.
-
-Core Strengths:
-* LLMs & NLP (Transformers, RAG, embeddings, fine-tuning)
-* AI Infrastructure (LangChain, LangGraph, AI Agents, Vector Databases)
-* MLOps & Cloud (Docker, Kubernetes, FastAPI, CI/CD, AWS/GCP/Azure AI)
-* Deep Learning & ML (PyTorch, TensorFlow, Scikit-Learn)
-* AI System Design & Frontend Integration (React, React Native)
-
-Always driven to push the boundaries of applied AI and transform ideas into scalable, real-world solutions.
+I am a passionate Mobile App Developer dedicated to creating modern, user-friendly, and high-performing mobile applications. I focus on building seamless digital experiences by combining clean design with efficient functionality. With a strong understanding of mobile technologies and development frameworks, I enjoy transforming ideas into reliable and engaging products. I am constantly learning, adapting to new tools, and staying updated with industry trends to deliver innovative solutions. Collaboration, problem-solving, and attention to detail are at the core of my work, and I strive to contribute to projects that make a real impact.
